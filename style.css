@@ -39,6 +39,12 @@ h1 {
 	margin-bottom: 1.5rem;
 }
 
+@media (max-width: 591px) {
+	h1 {
+		line-height: 4rem;
+	}
+}
+
 ul {
 	margin-left: 2rem;
 }
